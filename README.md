@@ -6,8 +6,8 @@ __Steps__
   * open .bash_profile file (vi .bash_profile)
   * copy and paste the content
   * save .bash_profile file
-   - press ESC
-   - press :wq or :x
-   - press Enter
+    * press ESC
+    * press :wq or :x
+    * press Enter
   * Reflect the changes by running below command
-   - source ~/.bash_profile
+    * source ~/.bash_profile

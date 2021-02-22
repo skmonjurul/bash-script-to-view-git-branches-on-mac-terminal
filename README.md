@@ -1,4 +1,4 @@
-# bash-script-to-view-git-branches-on-mac-terminal
+# bash-script-to-view-git-branches-on-mac-terminal-and-git-command-completion
 Bash script to view the git branches on mac terminal with username, working directory and the state of the current branch (means if there is any changes made or not)
 
 __Steps__
